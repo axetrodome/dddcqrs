@@ -1,0 +1,11 @@
+/Users/axelmharvaldepena/codes/dotnetshits/BuberDinner/BuberDinner.Contracts/bin/Debug/net8.0/BuberDinner.Contracts.deps.json
+/Users/axelmharvaldepena/codes/dotnetshits/BuberDinner/BuberDinner.Contracts/bin/Debug/net8.0/BuberDinner.Contracts.dll
+/Users/axelmharvaldepena/codes/dotnetshits/BuberDinner/BuberDinner.Contracts/bin/Debug/net8.0/BuberDinner.Contracts.pdb
+/Users/axelmharvaldepena/codes/dotnetshits/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelmharvaldepena/codes/dotnetshits/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.AssemblyInfoInputs.cache
+/Users/axelmharvaldepena/codes/dotnetshits/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.AssemblyInfo.cs
+/Users/axelmharvaldepena/codes/dotnetshits/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+/Users/axelmharvaldepena/codes/dotnetshits/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.dll
+/Users/axelmharvaldepena/codes/dotnetshits/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/refint/BuberDinner.Contracts.dll
+/Users/axelmharvaldepena/codes/dotnetshits/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.pdb
+/Users/axelmharvaldepena/codes/dotnetshits/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/ref/BuberDinner.Contracts.dll

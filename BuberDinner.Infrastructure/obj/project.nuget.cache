@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZORk9vOfoZwikbAX9Ff9tDrl/ZI8KLJll6p+qt2ZHl562vIjKPJ507XPWO+97/eqA+ORb1PuxhsN/fLtPxWNAQ==",
+  "success": true,
+  "projectFilePath": "/Users/axelmharvaldepena/codes/dotnetshits/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/axelmharvaldepena/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/fluentresults/3.15.2/fluentresults.3.15.2.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/microsoft.identitymodel.abstractions/7.5.1/microsoft.identitymodel.abstractions.7.5.1.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.5.1/microsoft.identitymodel.jsonwebtokens.7.5.1.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/microsoft.identitymodel.logging/7.5.1/microsoft.identitymodel.logging.7.5.1.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/microsoft.identitymodel.tokens/7.5.1/microsoft.identitymodel.tokens.7.5.1.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/system.identitymodel.tokens.jwt/7.5.1/system.identitymodel.tokens.jwt.7.5.1.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.2.0 was resolved.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "12HsFtvr+dJvu736bc/9cQBaPOXcQtaESVPcbqwwdNz5XUEZyB9qIYQAsjOtn/49vEwkW1eun5n/DFjD6eNUJQ==",
+  "success": true,
+  "projectFilePath": "/Users/axelmharvaldepena/codes/dotnetshits/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/axelmharvaldepena/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/fluentresults/3.15.2/fluentresults.3.15.2.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "/Users/axelmharvaldepena/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.2.0 was resolved.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

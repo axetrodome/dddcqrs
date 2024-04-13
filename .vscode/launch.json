@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "C#: BuberDinner.Api [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/BuberDinner.Api/BuberDinner.Api.csproj"
+        }
+    ]
+}

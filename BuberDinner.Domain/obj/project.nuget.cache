@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JknF9gYqVL0oblkigJXQU9Jb0vDAjgMHD2uVFBQJIMJW0qCqbOmMmT+OsAchb7pb8uD8eOTQ2FAcrTZbUPHAaQ==",
+  "success": true,
+  "projectFilePath": "/Users/axelmharvaldepena/codes/dotnetshits/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/axelmharvaldepena/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
